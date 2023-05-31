@@ -11,7 +11,7 @@ chmod +x script.sh
 
 4. Copie e cole os links de todos os repositórios desejados no arquivo links.txt, da mesma maneira em que já está preenchido para exemplificar, um embaixo do outro.
  
-5. Execute o seguinte comando para clonar os repositórios em lote:
+5. No Git Bash, execute o seguinte comando para clonar os repositórios em lote:
 ```bash
 ./script.sh
 ```
