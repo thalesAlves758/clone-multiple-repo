@@ -1,0 +1,11 @@
+https://github.com/thalesAlves758/lp5-mediator
+https://github.com/thalesAlves758/lp5-state
+https://github.com/thalesAlves758/lp5-iterator
+https://github.com/thalesAlves758/lp5-chain-of-responsability
+https://github.com/thalesAlves758/lp5-observer
+https://github.com/thalesAlves758/lp5-memento
+https://github.com/thalesAlves758/lp5-command
+https://github.com/thalesAlves758/lp5-interpreter
+https://github.com/thalesAlves758/lp5-visitor
+https://github.com/thalesAlves758/lp5-template-method
+https://github.com/thalesAlves758/lp5-strategy
