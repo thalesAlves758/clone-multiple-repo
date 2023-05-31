@@ -12,6 +12,6 @@ Esse comando dará permissão ao script para ser executado.
 4. Copie e cole os links de todos os repositórios desejados no arquivo links.txt, da mesma maneira em que já está preenchido para exemplificar, um embaixo do outro.
 5. Execute o seguinte comando para clonar os repositórios em lote:
 ```bash
-xargs -n 1 git clone < links.txt
+./script.sh
 ```
 6. A mágica foi feita
